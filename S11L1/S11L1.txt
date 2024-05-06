@@ -1,0 +1,7 @@
+-------------------------------------------------------------------
+Dal codice in assembly evidenziato in giallo vediamo che il malware 
+carica la chiave di registro da modificare e con il codice in verde 
+effettua la modifica per la persistenza.
+-------------------------------------------------------------------
+Nella seconda slide vediamo che il malware cerca di accedere al 
+browser della vittima IE 8.0 e apre l'url http://www.malware.com
